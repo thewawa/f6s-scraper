@@ -1,0 +1,5 @@
+# state.json is JSON serialised by Python (always \n); pin it to LF so the
+# mirror push doesn't show spurious line-ending diffs on every scraper run.
+state.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
