@@ -385,6 +385,44 @@ def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
+def mirror_state_to_git(total: int, new_count: int) -> None:
+    """Commit & push state.json to the configured git remote.
+
+    Used to keep github.com/thewawa/f6s-scraper in sync — the cloud routine
+    that runs every Monday clones that repo and reads state.json. Silent
+    no-op if not inside a git repo, nothing changed, or push fails (the
+    scrape itself succeeded; the mirror is best-effort).
+    """
+    import subprocess
+    try:
+        inside = subprocess.run(
+            ["git", "rev-parse", "--is-inside-work-tree"],
+            cwd=str(SCRIPT_DIR), capture_output=True, text=True,
+        )
+        if inside.returncode != 0 or inside.stdout.strip() != "true":
+            return
+        subprocess.run(["git", "add", "state.json"], cwd=str(SCRIPT_DIR), check=True)
+        diff = subprocess.run(
+            ["git", "diff", "--cached", "--quiet", "--", "state.json"],
+            cwd=str(SCRIPT_DIR),
+        )
+        if diff.returncode == 0:
+            log("  mirror: state.json unchanged, nothing to push")
+            return
+        msg = f"state: {total} programs ({new_count} new) @ {datetime.now():%Y-%m-%d %H:%M}"
+        subprocess.run(["git", "commit", "-q", "-m", msg], cwd=str(SCRIPT_DIR), check=True)
+        push = subprocess.run(
+            ["git", "push", "-q"], cwd=str(SCRIPT_DIR),
+            capture_output=True, text=True, timeout=60,
+        )
+        if push.returncode == 0:
+            log(f"  mirror: pushed state.json ({total} programs)")
+        else:
+            log(f"  mirror: push failed: {(push.stderr or '').strip()[:160]}")
+    except Exception as exc:  # noqa: BLE001 - mirror is best-effort
+        log(f"  mirror: skipped ({type(exc).__name__}: {exc})")
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description="Scrape new F6S program entries.")
     ap.add_argument("--pages", type=int, default=10,
@@ -414,6 +452,7 @@ def main() -> int:
 
     state["last_run"] = run_at
     save_state(state)
+    mirror_state_to_git(total=len(known), new_count=len(new_entries))
 
     OUTPUT_DIR.mkdir(exist_ok=True)
     stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
