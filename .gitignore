@@ -1,0 +1,9 @@
+# Persisted Chrome profile (holds bot-clearance cookie)
+.browser-profile/
+
+# Per-run output (state.json IS tracked — it's the mirror for the weekly routine)
+output/
+
+# Python
+__pycache__/
+*.pyc
