@@ -141,7 +141,7 @@
       "action": "Apply by May 25 More info",
       "slug": "f6srdtaxcredits",
       "first_seen": "2026-05-22T13:21:53.182116+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "f6saccounting": {
       "name": "F6S Accounting",
@@ -154,7 +154,7 @@
       "action": "Apply by May 25 More info",
       "slug": "f6saccounting",
       "first_seen": "2026-05-22T13:21:53.182116+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "f6sfreeseiseis": {
       "name": "F6S SEIS/EIS",
@@ -167,7 +167,7 @@
       "action": "Apply by May 25 More info",
       "slug": "f6sfreeseiseis",
       "first_seen": "2026-05-22T13:21:53.182116+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "f6scanadasred": {
       "name": "F6S Canada SR&ED",
@@ -180,7 +180,7 @@
       "action": "Apply by May 25 More info",
       "slug": "f6scanadasred",
       "first_seen": "2026-05-22T13:21:53.182116+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "accelerate-2025": {
       "name": "Accelerate 2026",
@@ -687,7 +687,7 @@
       "action": "Apply by May 31 More info",
       "slug": "founder-visa-uk",
       "first_seen": "2026-05-22T13:21:53.182116+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "nexus-we-build-businesses": {
       "name": "NEXUS: We Build Businesses",
@@ -3390,7 +3390,7 @@
       "action": "Book by Sep 29 More info",
       "slug": "new-york-2026-venture-capital-world-summit",
       "first_seen": "2026-05-22T13:21:53.182116+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "iphatch-north-america": {
       "name": "IPHatch North America",
@@ -3416,7 +3416,7 @@
       "action": "Book by Oct 25 More info",
       "slug": "world-pharmaceutical-sciences-and-translational-congress",
       "first_seen": "2026-05-22T13:21:53.182116+00:00",
-      "last_seen": "2026-09-09T18:00:01.996047+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "global-surgical-science-technology-con": {
       "name": "Global Surgical Science & Technology Con",
@@ -3428,7 +3428,8 @@
       "funding": null,
       "action": "Book by Oct 25 More info",
       "slug": "global-surgical-science-technology-con",
-      "first_seen": "2026-05-22T13:21:53.182116+00:00"
+      "first_seen": "2026-05-22T13:21:53.182116+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "innovations-in-pharma-rd": {
       "name": "Innovations in Pharma R&D",
@@ -3440,7 +3441,8 @@
       "funding": null,
       "action": "Book by Oct 30 More info",
       "slug": "innovations-in-pharma-rd",
-      "first_seen": "2026-05-22T13:21:53.182116+00:00"
+      "first_seen": "2026-05-22T13:21:53.182116+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "2026-consumer-goods": {
       "name": "2026 Consumer Goods",
@@ -5602,7 +5604,8 @@
       "funding": null,
       "action": "Apply by Oct 31 More info",
       "slug": "start-path-bmi",
-      "first_seen": "2026-05-22T13:21:53.182116+00:00"
+      "first_seen": "2026-05-22T13:21:53.182116+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "montreal-2026-venture-capital-world-summit": {
       "name": "Montreal 2026 Venture Capital World Summit",
@@ -7539,7 +7542,7 @@
       "action": "Book by Sep 25 More info",
       "slug": "uig-tagung-2026",
       "first_seen": "2026-05-22T13:21:53.182116+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "2nd-european-vehicle-glazing-innovation": {
       "name": "2nd European Vehicle Glazing Innovation",
@@ -7552,7 +7555,7 @@
       "action": "Book by Sep 25 More info",
       "slug": "2nd-european-vehicle-glazing-innovation",
       "first_seen": "2026-05-22T13:21:53.182116+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "european-ci-energy-storage-and-manageme": {
       "name": "European C&I Energy Storage and Manageme",
@@ -7565,7 +7568,7 @@
       "action": "Book by Oct 25 More info",
       "slug": "european-ci-energy-storage-and-manageme",
       "first_seen": "2026-05-22T13:21:53.182116+00:00",
-      "last_seen": "2026-09-09T18:00:01.996047+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "europe-data-center-cooling-forum-2026": {
       "name": "Europe Data Center Cooling Forum 2026",
@@ -13287,7 +13290,7 @@
       "action": "Apply by Jul 28 More info",
       "slug": "healthcare-revenue-scaler-program-2026",
       "first_seen": "2026-07-24T17:37:23.981256+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "good-food-makers-2026": {
       "name": "Good Food Makers 2026",
@@ -13312,7 +13315,7 @@
       "action": "Apply by Jul 28 More info",
       "slug": "healthcare-revenue-scaler-program",
       "first_seen": "2026-07-24T17:37:23.981256+00:00",
-      "last_seen": "2026-08-26T18:00:01.415463+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "ai-challenge-competition-info-webinar-italian": {
       "name": "AI Challenge Competition Info Webinar Italian",
@@ -13413,7 +13416,7 @@
       "action": "Apply by Jul 31 More info",
       "slug": "mawahub-biaa",
       "first_seen": "2026-07-24T17:37:23.981256+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "opendome": {
       "name": "OpenDome at Tokyo Dome City 2026",
@@ -13803,7 +13806,7 @@
       "action": "Apply by Aug 10 More info",
       "slug": "zero-bs-healthcare-fund-revenue-scaler",
       "first_seen": "2026-07-24T17:37:23.981256+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "baltimore-conscious-venture-lab-pre-accelerator": {
       "name": "Conscious Venture Lab Pre-Accelerator",
@@ -14011,7 +14014,7 @@
       "action": "Apply by Aug 16 More info",
       "slug": "fintech-innovation-pitches-2025",
       "first_seen": "2026-07-24T17:37:23.981256+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "meragenext-2026": {
       "name": "MerageNext 2026",
@@ -14076,7 +14079,7 @@
       "action": "Apply by Aug 20 More info",
       "slug": "28digital-mentor-me-program",
       "first_seen": "2026-07-24T17:37:23.981256+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "accelicity-mass-climate-tech-challenge": {
       "name": "AcceliCITY Mass Climate Tech Challenge",
@@ -14128,7 +14131,7 @@
       "action": "Apply by Aug 23 More info",
       "slug": "sustainability-revenue-scaler-pitch",
       "first_seen": "2026-07-24T17:37:23.981256+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "tourism-advance": {
       "name": "Tourism Advance | 2026",
@@ -14349,7 +14352,7 @@
       "action": "Apply by Aug 31 More info",
       "slug": "aginvest-2026",
       "first_seen": "2026-07-24T17:37:23.981256+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "rscg-2026": {
       "name": "RSCG 2026",
@@ -14527,7 +14530,7 @@
       "action": "Apply by Aug 31 More info",
       "slug": "tedxbarletta-call4ideas",
       "first_seen": "2026-07-29T18:00:01.887112+00:00",
-      "last_seen": "2026-08-26T18:00:01.415463+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "elevator-ignite-2-accelerator": {
       "name": "Elevator Ignite #2 (Accelerator)",
@@ -14889,7 +14892,7 @@
       "action": "Apply by Sep 10 More info",
       "slug": "5g-digits-open-call",
       "first_seen": "2026-08-05T18:00:02.246415+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "unleashed-cohort-2027": {
       "name": "Unleashed Cohort 2027",
@@ -15146,7 +15149,7 @@
       "action": "Apply by Sep 13 More info",
       "slug": "seraphim-x-space-florida-cohort-3",
       "first_seen": "2026-08-26T18:00:01.415463+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "eye4ai-final-international-conference": {
       "name": "EYE4AI · Final International Conference",
@@ -15471,7 +15474,7 @@
       "action": "Apply by Sep 23 More info",
       "slug": "catapult-inclusion-lac-1",
       "first_seen": "2026-08-26T18:00:01.415463+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "morocco-siema-expo-2026": {
       "name": "MOROCCO SIEMA EXPO 2026",
@@ -15484,7 +15487,7 @@
       "action": "Book by Sep 24 More info",
       "slug": "morocco-siema-expo-2026",
       "first_seen": "2026-08-26T18:00:01.415463+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "family-business-events-india-family-capital-summit": {
       "name": "Family Business Events India - Family Capital Summit",
@@ -15559,7 +15562,7 @@
       "action": "Apply by Sep 20 More info",
       "slug": "neurotech-frontiers-pitch-competition",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "chicago-2026-venture-capital-world-summit": {
       "name": "Chicago 2026 Venture Capital World Summit",
@@ -15572,7 +15575,7 @@
       "action": "Book by Sep 24 More info",
       "slug": "chicago-2026-venture-capital-world-summit",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "founder-to-founder": {
       "name": "Founder-to-Founder 26/27",
@@ -15585,7 +15588,7 @@
       "action": "Apply by Sep 24 More info",
       "slug": "founder-to-founder",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "ai-accelerator-batch-81": {
       "name": "AI Accelerator Batch #8",
@@ -15598,7 +15601,7 @@
       "action": "Apply by Sep 25 More info",
       "slug": "ai-accelerator-batch-81",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "nswaibonanza2026": {
       "name": "NSW AI Bonanza 2026",
@@ -15611,7 +15614,7 @@
       "action": "Book by Sep 26 More info",
       "slug": "nswaibonanza2026",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "venture-build-2026": {
       "name": "Venture Build 2026",
@@ -15624,7 +15627,7 @@
       "action": "Apply by Sep 26 More info",
       "slug": "venture-build-2026",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "digital-commerce-cohort-20261": {
       "name": "Digital Commerce Cohort - 2026",
@@ -15637,7 +15640,7 @@
       "action": "More info",
       "slug": "digital-commerce-cohort-20261",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "onlab32nd": {
       "name": "Open Network Lab Winter 2026 (Batch 32)",
@@ -15650,7 +15653,7 @@
       "action": "Apply by Sep 28 More info",
       "slug": "onlab32nd",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "true-zero-global-prize": {
       "name": "True Zero Global Prize",
@@ -15663,7 +15666,7 @@
       "action": "Apply by Sep 28 More info",
       "slug": "true-zero-global-prize",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "nairobi-2026-venture-capital-world-summit": {
       "name": "Nairobi 2026 Venture Capital World Summit",
@@ -15676,7 +15679,7 @@
       "action": "Book by Sep 30 More info",
       "slug": "nairobi-2026-venture-capital-world-summit",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "startupsx": {
       "name": "STARTUPsX Program",
@@ -15689,7 +15692,7 @@
       "action": "Apply by Sep 30 More info",
       "slug": "startupsx",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "sundanse-open-call-2": {
       "name": "SUNDANSE - Open Call 2",
@@ -15702,7 +15705,7 @@
       "action": "Apply by Sep 30 More info",
       "slug": "sundanse-open-call-2",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "accelerating-asia-cohort-14-application": {
       "name": "Accelerating Asia Cohort 14 Application",
@@ -15727,7 +15730,7 @@
       "action": "Apply by Sep 30 More info",
       "slug": "iphatchr-middle-east",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "ignit3-for-web3-startups": {
       "name": "Ignit3 for Web3 startups",
@@ -15740,7 +15743,7 @@
       "action": "Apply by Sep 30 More info",
       "slug": "ignit3-for-web3-startups",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "finquest-by-alpha-bank-2026": {
       "name": "FinQuest by Alpha Bank 2026",
@@ -15753,7 +15756,7 @@
       "action": "Apply by Sep 30 More info",
       "slug": "finquest-by-alpha-bank-2026",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "industrial-transition-accelerator-26-9": {
       "name": "Industrial Transition Accelerator 26-9",
@@ -15766,7 +15769,7 @@
       "action": "Apply by Sep 30 More info",
       "slug": "industrial-transition-accelerator-26-9",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "accendio-deeptech-funding-26-9": {
       "name": "ACCENDIO DeepTech Funding 26-9",
@@ -15779,7 +15782,7 @@
       "action": "Apply by Sep 30 More info",
       "slug": "accendio-deeptech-funding-26-9",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "spark-fund-i-cohort-3-i-2027": {
       "name": "Spark Fund I Cohort 3 I 2027",
@@ -15805,7 +15808,7 @@
       "action": "Apply by Sep 30 More info",
       "slug": "wolves-summit-fall-2026",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "q426-bf-fashion-startup-program": {
       "name": "Q4'26 BF Fashion Startup Program",
@@ -15818,7 +15821,7 @@
       "action": "Apply by Sep 30 More info",
       "slug": "q426-bf-fashion-startup-program",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "spark-4.0-edycja-rethink": {
       "name": "Spark 4.0 / Edycja: Rethink",
@@ -15831,7 +15834,7 @@
       "action": "Apply by Sep 30 More info",
       "slug": "spark-4.0-edycja-rethink",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "i3-4-seaweed-forum-2026": {
       "name": "I3-4-SEAWEED FORUM 2026",
@@ -15844,7 +15847,7 @@
       "action": "Apply by Sep 30 More info",
       "slug": "i3-4-seaweed-forum-2026",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "lighthouse-network-accelerator-2027": {
       "name": "Lighthouse Network 2027 Accelerator",
@@ -15857,7 +15860,7 @@
       "action": "Apply by Oct 2 More info",
       "slug": "lighthouse-network-accelerator-2027",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "sensor-tech-challenge-2026": {
       "name": "Low Cost, Reagent Free Aqueous Sensors",
@@ -15870,7 +15873,7 @@
       "action": "Apply by Oct 2 More info",
       "slug": "sensor-tech-challenge-2026",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "itec-asean": {
       "name": "ITEC ASEAN",
@@ -15883,7 +15886,7 @@
       "action": "Book by Oct 4 More info",
       "slug": "itec-asean",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "mumbai-2026-venturecapitalworldsummit": {
       "name": "Mumbai 2026 Venture Capital World Summit",
@@ -15896,7 +15899,7 @@
       "action": "Book by Oct 5 More info",
       "slug": "mumbai-2026-venturecapitalworldsummit",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "pianeta-accelerator": {
       "name": "Pianeta Accelerator",
@@ -15909,7 +15912,7 @@
       "action": "Apply by Oct 5 More info",
       "slug": "pianeta-accelerator",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "bangalore-2026-venture-capital-world-summit": {
       "name": "Bengaluru 2026 Venture Capital World Summit",
@@ -15922,7 +15925,7 @@
       "action": "Book by Oct 7 More info",
       "slug": "bangalore-2026-venture-capital-world-summit",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "spinlab": {
       "name": "SpinLab - Acceleration Class 2027",
@@ -15935,7 +15938,7 @@
       "action": "Apply by Oct 8 More info",
       "slug": "spinlab",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "new-delhi-2026-venture-capital-world-summit": {
       "name": "New Delhi 2026 Venture Capital World Summit",
@@ -15948,7 +15951,7 @@
       "action": "Book by Oct 9 More info",
       "slug": "new-delhi-2026-venture-capital-world-summit",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "urban-mobility-scale-up-report": {
       "name": "Urban Mobility Scale-Up Report Portugal",
@@ -15961,7 +15964,7 @@
       "action": "Apply by Oct 10 More info",
       "slug": "urban-mobility-scale-up-report",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "shanghai-2026-venture-capital-world-summit": {
       "name": "Shanghai 2026 Venture Capital World Summit",
@@ -15974,7 +15977,7 @@
       "action": "Book by Oct 13 More info",
       "slug": "shanghai-2026-venture-capital-world-summit",
       "first_seen": "2026-09-02T18:00:01.936861+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "1752vc-accelerate": {
       "name": "Accelerate 2026",
@@ -15987,7 +15990,7 @@
       "action": "Apply by Sep 14 More info",
       "slug": "1752vc-accelerate",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "1752vc-ignite": {
       "name": "Ignite 2026",
@@ -16000,7 +16003,7 @@
       "action": "Apply by Sep 14 More info",
       "slug": "1752vc-ignite",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "1752vc-gtm-accelerator": {
       "name": "The GTM Accelerator 2026",
@@ -16013,7 +16016,7 @@
       "action": "Apply by Sep 14 More info",
       "slug": "1752vc-gtm-accelerator",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "1752vc-launchpad": {
       "name": "Launchpad 2026",
@@ -16026,7 +16029,7 @@
       "action": "Apply by Sep 14 More info",
       "slug": "1752vc-launchpad",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "1752vc-ignite-dtc": {
       "name": "Ignite DTC 2026",
@@ -16039,7 +16042,7 @@
       "action": "Apply by Sep 14 More info",
       "slug": "1752vc-ignite-dtc",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "deployai-aiod-oc1-stage-2-application": {
       "name": "DeployAI AIoD OC1 | Stage 2 Application",
@@ -16065,7 +16068,7 @@
       "action": "Apply by Sep 30 More info",
       "slug": "reducing-language-barriers-in-healthcare",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "honda-innovation-challenge-2.0": {
       "name": "Honda Innovation Challenge 2.0",
@@ -16078,7 +16081,7 @@
       "action": "Apply by Oct 3 More info",
       "slug": "honda-innovation-challenge-2.0",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "startup-world-cup-uk-north": {
       "name": "Startup World Cup: UK North",
@@ -16091,7 +16094,7 @@
       "action": "Book by Oct 4 More info",
       "slug": "startup-world-cup-uk-north",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "breaking-into-asia-5-critical-mistakes-how-to-avoid-them": {
       "name": "Breaking Into Asia: 5 Critical Mistakes & How To Avoid Them",
@@ -16104,7 +16107,7 @@
       "action": "Book by Oct 7 More info",
       "slug": "breaking-into-asia-5-critical-mistakes-how-to-avoid-them",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "neurotech-frontiers-conference-2026-summit": {
       "name": "NeuroTech Frontiers Conference 2026",
@@ -16117,7 +16120,7 @@
       "action": "Book by Oct 12 More info",
       "slug": "neurotech-frontiers-conference-2026-summit",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "neurotech-frontiers-conference-20261": {
       "name": "NeuroTech Frontiers Conference 2026",
@@ -16130,7 +16133,7 @@
       "action": "Apply by Oct 12 More info",
       "slug": "neurotech-frontiers-conference-20261",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "beijing-2026-venture-capital-world-summit": {
       "name": "Beijing 2026 Venture Capital World Summit",
@@ -16143,7 +16146,7 @@
       "action": "Book by Oct 15 More info",
       "slug": "beijing-2026-venture-capital-world-summit",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "govxcellence-summit-india": {
       "name": "GovXcellence Summit - India",
@@ -16156,7 +16159,7 @@
       "action": "Book by Oct 15 More info",
       "slug": "govxcellence-summit-india",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "digiwind-gdansk-tech-open-call-1": {
       "name": "DigiWIND Gdańsk Tech Open Call #1",
@@ -16169,7 +16172,7 @@
       "action": "Apply by Oct 15 More info",
       "slug": "digiwind-gdansk-tech-open-call-1",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "mega-electricity-kenya-expo-2026": {
       "name": "MEGA ELECTRICITY KENYA EXPO 2026",
@@ -16182,7 +16185,7 @@
       "action": "Book by Oct 15 More info",
       "slug": "mega-electricity-kenya-expo-2026",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "mega-clima-kenya-2026": {
       "name": "MEGA CLIMA KENYA 2026",
@@ -16195,7 +16198,7 @@
       "action": "Book by Oct 15 More info",
       "slug": "mega-clima-kenya-2026",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "blacknight-space-labs-w27-cohort": {
       "name": "BlacKnight Space Labs W27 Cohort",
@@ -16208,7 +16211,7 @@
       "action": "Apply by Oct 17 More info",
       "slug": "blacknight-space-labs-w27-cohort",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "entrepreneurship-summit-2026": {
       "name": "Entrepreneurship Summit 2026",
@@ -16221,7 +16224,7 @@
       "action": "Book by Oct 18 More info",
       "slug": "entrepreneurship-summit-2026",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "powerup-2026-run-by-qonto": {
       "name": "PowerUp 2026 (run by Qonto)",
@@ -16234,7 +16237,7 @@
       "action": "Apply by Oct 18 More info",
       "slug": "powerup-2026-run-by-qonto",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "riyadh-2026-venture-capital-world-summit": {
       "name": "Riyadh 2026 Venture Capital World Summit",
@@ -16247,7 +16250,7 @@
       "action": "Book by Oct 20 More info",
       "slug": "riyadh-2026-venture-capital-world-summit",
       "first_seen": "2026-09-09T18:00:01.996047+00:00",
-      "last_seen": "2026-09-17T13:13:11.264625+00:00"
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "dubai-2026-venture-capital-world-summit": {
       "name": "Dubai 2026 Venture Capital World Summit",
@@ -16259,7 +16262,8 @@
       "funding": null,
       "action": "Book by Oct 22 More info",
       "slug": "dubai-2026-venture-capital-world-summit",
-      "first_seen": "2026-09-09T18:00:01.996047+00:00"
+      "first_seen": "2026-09-09T18:00:01.996047+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "cleanhypro-2nd-wave-open-call-oc2": {
       "name": "CLEANHYPRO 2nd Wave Open Call (OC2)",
@@ -16271,7 +16275,8 @@
       "funding": null,
       "action": "Apply by Oct 23 More info",
       "slug": "cleanhypro-2nd-wave-open-call-oc2",
-      "first_seen": "2026-09-09T18:00:01.996047+00:00"
+      "first_seen": "2026-09-09T18:00:01.996047+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "crossing-over-latam-bioexpo-2026-buenos-aires": {
       "name": "Crossing Over LATAM BioExpo 2026, Buenos Aires",
@@ -16283,7 +16288,8 @@
       "funding": null,
       "action": "Book by Oct 23 More info",
       "slug": "crossing-over-latam-bioexpo-2026-buenos-aires",
-      "first_seen": "2026-09-09T18:00:01.996047+00:00"
+      "first_seen": "2026-09-09T18:00:01.996047+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "ai-awards-india-enterprise-ai-awards": {
       "name": "AI Awards India - Enterprise AI Awards",
@@ -16355,7 +16361,8 @@
       "funding": "$150k per team 7.5% equity",
       "action": "Apply by Sep 25 More info",
       "slug": "150k-university-pitch-competition-15",
-      "first_seen": "2026-09-17T13:13:11.264625+00:00"
+      "first_seen": "2026-09-17T13:13:11.264625+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "social-venture-challenge-2027": {
       "name": "Social Venture Challenge 2027",
@@ -16367,7 +16374,8 @@
       "funding": null,
       "action": "Apply by Sep 25 More info",
       "slug": "social-venture-challenge-2027",
-      "first_seen": "2026-09-17T13:13:11.264625+00:00"
+      "first_seen": "2026-09-17T13:13:11.264625+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "150k-bay-area-pitch-competition": {
       "name": "$150k Pitch Competition (Bay Area)",
@@ -16379,7 +16387,8 @@
       "funding": "$150k per team 7.5% equity",
       "action": "Apply by Oct 1 More info",
       "slug": "150k-bay-area-pitch-competition",
-      "first_seen": "2026-09-17T13:13:11.264625+00:00"
+      "first_seen": "2026-09-17T13:13:11.264625+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "social-impact-lab-bologna": {
       "name": "Social Impact Lab Bologna",
@@ -16391,7 +16400,8 @@
       "funding": "€1,000 per team",
       "action": "Apply by Oct 5 More info",
       "slug": "social-impact-lab-bologna",
-      "first_seen": "2026-09-17T13:13:11.264625+00:00"
+      "first_seen": "2026-09-17T13:13:11.264625+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "kotak-bizlabs-season-3": {
       "name": "Kotak Bizlabs Season 3",
@@ -16403,7 +16413,8 @@
       "funding": null,
       "action": "Book by Oct 7 More info",
       "slug": "kotak-bizlabs-season-3",
-      "first_seen": "2026-09-17T13:13:11.264625+00:00"
+      "first_seen": "2026-09-17T13:13:11.264625+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "fashion-beauty-and-luxury-investment-conference": {
       "name": "Fashion, Beauty and Luxury Investment Conference",
@@ -16415,7 +16426,8 @@
       "funding": null,
       "action": "Book by Oct 7 More info",
       "slug": "fashion-beauty-and-luxury-investment-conference",
-      "first_seen": "2026-09-17T13:13:11.264625+00:00"
+      "first_seen": "2026-09-17T13:13:11.264625+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "music-motion-creative-tech": {
       "name": "Music, motion & creative tech integration",
@@ -16427,7 +16439,8 @@
       "funding": null,
       "action": "Book by Oct 14 More info",
       "slug": "music-motion-creative-tech",
-      "first_seen": "2026-09-17T13:13:11.264625+00:00"
+      "first_seen": "2026-09-17T13:13:11.264625+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "150k-pitch-competition-w-ngen": {
       "name": "$150k Pitch Competition w NGEN",
@@ -16439,7 +16452,8 @@
       "funding": "$150k per team 7.5% equity",
       "action": "Apply by Oct 14 More info",
       "slug": "150k-pitch-competition-w-ngen",
-      "first_seen": "2026-09-17T13:13:11.264625+00:00"
+      "first_seen": "2026-09-17T13:13:11.264625+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "lvl1-accelerator-cohort-4": {
       "name": "LVL1 Accelerator Cohort 10",
@@ -16451,7 +16465,8 @@
       "funding": null,
       "action": "More info",
       "slug": "lvl1-accelerator-cohort-4",
-      "first_seen": "2026-09-17T13:13:11.264625+00:00"
+      "first_seen": "2026-09-17T13:13:11.264625+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "elevate-season-8": {
       "name": "Elevate Season 8",
@@ -16463,7 +16478,8 @@
       "funding": "$2,000 per team",
       "action": "Apply by Oct 16 More info",
       "slug": "elevate-season-8",
-      "first_seen": "2026-09-17T13:13:11.264625+00:00"
+      "first_seen": "2026-09-17T13:13:11.264625+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
     },
     "westly-prize-for-young-social-innovators": {
       "name": "Westly Prize for Young Social Innovators",
@@ -16475,8 +16491,357 @@
       "funding": null,
       "action": "Book by Oct 16 More info",
       "slug": "westly-prize-for-young-social-innovators",
-      "first_seen": "2026-09-17T13:13:11.264625+00:00"
+      "first_seen": "2026-09-17T13:13:11.264625+00:00",
+      "last_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "deep-leap": {
+      "name": "DEEP LEAP",
+      "profileUrl": "https://www.f6s.com/deep-leap",
+      "aboutUrl": "https://www.f6s.com/deep-leap/about",
+      "deadline": "by Sep 30",
+      "dates": null,
+      "location": "Cochin, India",
+      "funding": "INR3m per team 5% equity",
+      "action": "Apply by Sep 30 More info",
+      "slug": "deep-leap",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "sparkx-nsut": {
+      "name": "SparkX NSUT",
+      "profileUrl": "https://www.f6s.com/sparkx-nsut",
+      "aboutUrl": "https://www.f6s.com/sparkx-nsut/about",
+      "deadline": "by Oct 5",
+      "dates": "Oct 7",
+      "location": "Delhi, India",
+      "funding": "INR100k per team",
+      "action": "Apply by Oct 5 More info",
+      "slug": "sparkx-nsut",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "first100-batch-1": {
+      "name": "First100.",
+      "profileUrl": "https://www.f6s.com/first100-batch-1",
+      "aboutUrl": "https://www.f6s.com/first100-batch-1/about",
+      "deadline": "by Oct 7",
+      "dates": "Oct 23 '26-Feb 5 '27",
+      "location": "Lucca, Italy",
+      "funding": null,
+      "action": "Apply by Oct 7 More info",
+      "slug": "first100-batch-1",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "ideathon-3.o-startup-carnival": {
+      "name": "Ideathon 3.O, Startup Carnival",
+      "profileUrl": "https://www.f6s.com/ideathon-3.o-startup-carnival",
+      "aboutUrl": "https://www.f6s.com/ideathon-3.o-startup-carnival/about",
+      "deadline": "by Oct 9",
+      "dates": "Oct 15-17",
+      "location": "Jaipur, India",
+      "funding": null,
+      "action": "Book by Oct 9 More info",
+      "slug": "ideathon-3.o-startup-carnival",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "build-with-stripe-community-adding-payments-to-your-product": {
+      "name": "Build with Stripe Community: Adding Payments to Your Product",
+      "profileUrl": "https://www.f6s.com/build-with-stripe-community-adding-payments-to-your-product",
+      "aboutUrl": "https://www.f6s.com/build-with-stripe-community-adding-payments-to-your-product/about",
+      "deadline": "by Oct 14",
+      "dates": "Oct 14",
+      "location": "",
+      "funding": null,
+      "action": "Book by Oct 14 More info",
+      "slug": "build-with-stripe-community-adding-payments-to-your-product",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "uf-gator-hatchery-uf-pitch-application": {
+      "name": "UF Gator Hatchery & UF Pitch Application",
+      "profileUrl": "https://www.f6s.com/uf-gator-hatchery-uf-pitch-application",
+      "aboutUrl": "https://www.f6s.com/uf-gator-hatchery-uf-pitch-application/about",
+      "deadline": "by Oct 16",
+      "dates": null,
+      "location": "Gainesville, United States",
+      "funding": "$10k per team",
+      "action": "Apply by Oct 16 More info",
+      "slug": "uf-gator-hatchery-uf-pitch-application",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "audacious-2026-make-work-better": {
+      "name": "AUDACIOUS 2026: Make Work Better",
+      "profileUrl": "https://www.f6s.com/audacious-2026-make-work-better",
+      "aboutUrl": "https://www.f6s.com/audacious-2026-make-work-better/about",
+      "deadline": "by Oct 16",
+      "dates": null,
+      "location": "Lisbon, Portugal",
+      "funding": null,
+      "action": "Apply by Oct 16 More info",
+      "slug": "audacious-2026-make-work-better",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "call-for-expression-of-interest-2": {
+      "name": "Call for Expression of Interest #2",
+      "profileUrl": "https://www.f6s.com/call-for-expression-of-interest-2",
+      "aboutUrl": "https://www.f6s.com/call-for-expression-of-interest-2/about",
+      "deadline": "by Oct 23",
+      "dates": "Nov 5-Dec 31",
+      "location": "Brussels, Belgium",
+      "funding": "€50 per team",
+      "action": "Apply by Oct 23 More info",
+      "slug": "call-for-expression-of-interest-2",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "apply-ai-startup-award-top-10-online-pitching-event": {
+      "name": "Apply AI Startup Award – Top 10 Online Pitching Event",
+      "profileUrl": "https://www.f6s.com/apply-ai-startup-award-top-10-online-pitching-event",
+      "aboutUrl": "https://www.f6s.com/apply-ai-startup-award-top-10-online-pitching-event/about",
+      "deadline": "by Oct 23",
+      "dates": "Oct 20",
+      "location": "",
+      "funding": null,
+      "action": "Book by Oct 23 More info",
+      "slug": "apply-ai-startup-award-top-10-online-pitching-event",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "environmental-tech-lab-2026": {
+      "name": "Environmental Tech Lab 2026",
+      "profileUrl": "https://www.f6s.com/environmental-tech-lab-2026",
+      "aboutUrl": "https://www.f6s.com/environmental-tech-lab-2026/about",
+      "deadline": "by Oct 24",
+      "dates": null,
+      "location": "New York City, United States",
+      "funding": null,
+      "action": "Apply by Oct 24 More info",
+      "slug": "environmental-tech-lab-2026",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "4yfn27-awards": {
+      "name": "4YFN27 Awards",
+      "profileUrl": "https://www.f6s.com/4yfn27-awards",
+      "aboutUrl": "https://www.f6s.com/4yfn27-awards/about",
+      "deadline": "by Oct 26",
+      "dates": null,
+      "location": "Barcelona, Spain",
+      "funding": "€20k per team",
+      "action": "More info",
+      "slug": "4yfn27-awards",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "rally-sea-winter-2027": {
+      "name": "Rally SEA Winter 2027",
+      "profileUrl": "https://www.f6s.com/rally-sea-winter-2027",
+      "aboutUrl": "https://www.f6s.com/rally-sea-winter-2027/about",
+      "deadline": "by Oct 27",
+      "dates": "Jan 18-May 11 '27",
+      "location": "Orlando, United States",
+      "funding": null,
+      "action": "Apply by Oct 27 More info",
+      "slug": "rally-sea-winter-2027",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "cpca-show-plus": {
+      "name": "CPCA Show Plus",
+      "profileUrl": "https://www.f6s.com/cpca-show-plus",
+      "aboutUrl": "https://www.f6s.com/cpca-show-plus/about",
+      "deadline": "by Oct 29",
+      "dates": "Oct 27-29",
+      "location": "Shenzhen, China",
+      "funding": null,
+      "action": "Book by Oct 29 More info",
+      "slug": "cpca-show-plus",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "trunsport-open-call-1": {
+      "name": "TRUNSPORT Open Call 1",
+      "profileUrl": "https://www.f6s.com/trunsport-open-call-1",
+      "aboutUrl": "https://www.f6s.com/trunsport-open-call-1/about",
+      "deadline": "by Oct 30",
+      "dates": "Jan 1-Sep 30 '27",
+      "location": "Thessaloníki, Greece",
+      "funding": "€60k per team",
+      "action": "Apply by Oct 30 More info",
+      "slug": "trunsport-open-call-1",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "greenovation-circularity-challenge": {
+      "name": "Greenovation Circularity Challenge",
+      "profileUrl": "https://www.f6s.com/greenovation-circularity-challenge",
+      "aboutUrl": "https://www.f6s.com/greenovation-circularity-challenge/about",
+      "deadline": "by Oct 31",
+      "dates": null,
+      "location": "Calcutta, India",
+      "funding": "INR2m per team",
+      "action": "Apply by Oct 31 More info",
+      "slug": "greenovation-circularity-challenge",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "cynestx-dubai-application": {
+      "name": "Cynestx Dubai Application",
+      "profileUrl": "https://www.f6s.com/cynestx-dubai-application",
+      "aboutUrl": "https://www.f6s.com/cynestx-dubai-application/about",
+      "deadline": "by Oct 31",
+      "dates": null,
+      "location": "Dubai, United Arab Emirates",
+      "funding": null,
+      "action": "Apply by Oct 31 More info",
+      "slug": "cynestx-dubai-application",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "cynestx-cyprus-application": {
+      "name": "Cynestx Cyprus Application",
+      "profileUrl": "https://www.f6s.com/cynestx-cyprus-application",
+      "aboutUrl": "https://www.f6s.com/cynestx-cyprus-application/about",
+      "deadline": "by Oct 31",
+      "dates": null,
+      "location": "Nicosia, Cyprus",
+      "funding": null,
+      "action": "Apply by Oct 31 More info",
+      "slug": "cynestx-cyprus-application",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "founders12-accelerator-20261": {
+      "name": "founders12 accelerator 2026",
+      "profileUrl": "https://www.f6s.com/founders12-accelerator-20261",
+      "aboutUrl": "https://www.f6s.com/founders12-accelerator-20261/about",
+      "deadline": "by Oct 31",
+      "dates": null,
+      "location": "Nicosia, Cyprus",
+      "funding": "€12k per team",
+      "action": "Apply by Oct 31 More info",
+      "slug": "founders12-accelerator-20261",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "cynestx-south-africa-application": {
+      "name": "Cynestx South Africa Application",
+      "profileUrl": "https://www.f6s.com/cynestx-south-africa-application",
+      "aboutUrl": "https://www.f6s.com/cynestx-south-africa-application/about",
+      "deadline": "by Oct 31",
+      "dates": "Jan 1-Dec 31 '27",
+      "location": "Cape Town, South Africa",
+      "funding": null,
+      "action": "Apply by Oct 31 More info",
+      "slug": "cynestx-south-africa-application",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "cynestx-uk-application": {
+      "name": "Cynestx UK Application",
+      "profileUrl": "https://www.f6s.com/cynestx-uk-application",
+      "aboutUrl": "https://www.f6s.com/cynestx-uk-application/about",
+      "deadline": "by Oct 31",
+      "dates": null,
+      "location": "London, United Kingdom",
+      "funding": null,
+      "action": "Apply by Oct 31 More info",
+      "slug": "cynestx-uk-application",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "cynestx-morocco-application": {
+      "name": "Cynestx Morocco Application",
+      "profileUrl": "https://www.f6s.com/cynestx-morocco-application",
+      "aboutUrl": "https://www.f6s.com/cynestx-morocco-application/about",
+      "deadline": "by Oct 31",
+      "dates": null,
+      "location": "Casablanca, Morocco",
+      "funding": null,
+      "action": "Apply by Oct 31 More info",
+      "slug": "cynestx-morocco-application",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "cynestx-ireland-application": {
+      "name": "Cynestx Ireland Application",
+      "profileUrl": "https://www.f6s.com/cynestx-ireland-application",
+      "aboutUrl": "https://www.f6s.com/cynestx-ireland-application/about",
+      "deadline": "by Oct 31",
+      "dates": null,
+      "location": "Gaillimh, Ireland",
+      "funding": null,
+      "action": "Apply by Oct 31 More info",
+      "slug": "cynestx-ireland-application",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "cynestx-jersey-application": {
+      "name": "Cynestx Jersey Application",
+      "profileUrl": "https://www.f6s.com/cynestx-jersey-application",
+      "aboutUrl": "https://www.f6s.com/cynestx-jersey-application/about",
+      "deadline": "by Oct 31",
+      "dates": null,
+      "location": "Irapuato, Mexico",
+      "funding": null,
+      "action": "Apply by Oct 31 More info",
+      "slug": "cynestx-jersey-application",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "2026-ai-2030-accelerator-cohort-2": {
+      "name": "AI 2030 Fintech Cohort",
+      "profileUrl": "https://www.f6s.com/2026-ai-2030-accelerator-cohort-2",
+      "aboutUrl": "https://www.f6s.com/2026-ai-2030-accelerator-cohort-2/about",
+      "deadline": "by Nov 1",
+      "dates": "Dec 1 '26-Feb 28 '27",
+      "location": "Chicago, United States",
+      "funding": null,
+      "action": "Apply by Nov 1 More info",
+      "slug": "2026-ai-2030-accelerator-cohort-2",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "rgu-startup-accelerator-2027": {
+      "name": "RGU Startup Accelerator 2027",
+      "profileUrl": "https://www.f6s.com/rgu-startup-accelerator-2027",
+      "aboutUrl": "https://www.f6s.com/rgu-startup-accelerator-2027/about",
+      "deadline": "by Nov 2",
+      "dates": "Dec 14 '26-Jun 4 '27",
+      "location": "Aberdeen, United Kingdom",
+      "funding": "£2,000 per team",
+      "action": "Apply by Nov 2 More info",
+      "slug": "rgu-startup-accelerator-2027",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "digiwind-ntnu-open-call-2-spring-2027": {
+      "name": "DigiWIND NTNU Open Call 2 - Spring 2027",
+      "profileUrl": "https://www.f6s.com/digiwind-ntnu-open-call-2-spring-2027",
+      "aboutUrl": "https://www.f6s.com/digiwind-ntnu-open-call-2-spring-2027/about",
+      "deadline": "by Nov 2",
+      "dates": null,
+      "location": "Trondheim, Norway",
+      "funding": "€6,940 per team",
+      "action": "Apply by Nov 2 More info",
+      "slug": "digiwind-ntnu-open-call-2-spring-2027",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "2nd-european-hybrid-and-ev-nvh-summit-20": {
+      "name": "2nd European Hybrid and EV NVH Summit 20",
+      "profileUrl": "https://www.f6s.com/2nd-european-hybrid-and-ev-nvh-summit-20",
+      "aboutUrl": "https://www.f6s.com/2nd-european-hybrid-and-ev-nvh-summit-20/about",
+      "deadline": "by Nov 2",
+      "dates": "Nov 4-5",
+      "location": "Stuttgart, Germany",
+      "funding": null,
+      "action": "Book by Nov 2 More info",
+      "slug": "2nd-european-hybrid-and-ev-nvh-summit-20",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "istanbul-2026-venture-capital-world-summit": {
+      "name": "Istanbul 2026 Venture Capital World Summit",
+      "profileUrl": "https://www.f6s.com/istanbul-2026-venture-capital-world-summit",
+      "aboutUrl": "https://www.f6s.com/istanbul-2026-venture-capital-world-summit/about",
+      "deadline": "by Nov 3",
+      "dates": "Nov 3",
+      "location": "İstanbul, Turkey",
+      "funding": null,
+      "action": "Book by Nov 3 More info",
+      "slug": "istanbul-2026-venture-capital-world-summit",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
+    },
+    "fortis-open-call-2": {
+      "name": "FORTIS Open Call #2",
+      "profileUrl": "https://www.f6s.com/fortis-open-call-2",
+      "aboutUrl": "https://www.f6s.com/fortis-open-call-2/about",
+      "deadline": "by Nov 4",
+      "dates": "Aug 31-Nov 4",
+      "location": "Brussels, Belgium",
+      "funding": "€250k per team",
+      "action": "Apply by Nov 4 More info",
+      "slug": "fortis-open-call-2",
+      "first_seen": "2026-09-23T18:00:01.597910+00:00"
     }
   },
-  "last_run": "2026-09-17T13:13:11.264625+00:00"
+  "last_run": "2026-09-23T18:00:01.597910+00:00"
 }
